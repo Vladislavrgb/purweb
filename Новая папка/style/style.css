@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Outfit';
+  font-weight: bold;
+  src: local('Outfit'), url(/fonts/Outfit-Bold.ttf);
+}
+
+.font {
+  font-size: 98px;
+  font-family: 'Outfit',sans-serif;
+}
+.font2 {
+  font-size: 98px;
+}
